@@ -21,6 +21,7 @@ Among other tasks, the tools allow modelers to:
    data
    cli
    repro
+   distrib
 
 .. toctree::
    :maxdepth: 2
@@ -34,6 +35,7 @@ Among other tasks, the tools allow modelers to:
    api/tools
    api/util
    api/testing
+   api/workflow
 
 .. toctree::
    :maxdepth: 2

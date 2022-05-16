@@ -4,6 +4,16 @@ What's new
 .. Next release
 .. ============
 
+2022.5.6
+========
+
+- Bump minimum required version of :mod:`message_ix` to v3.4.0 from v3.2.0 (:pull:`71`).
+- Add a documentation page on :doc:`distrib` (:pull:`59`).
+- Add :func:`.testing.not_ci` for marking tests not to be run on continuous integration services; improve :func:`~.testing.session_context` (:pull:`62`).
+- :fun:`.apply_spec` also adds elements of the "node" set using :meth:`.ixmp.Platform.add_region` (:pull:`62`).
+- Add new logo the documentation (:pull:`68`).
+- Add :class:`.Workflow`; see :doc:`api/workflow` (:pull:`60`).
+
 2022.3.30
 =========
 
